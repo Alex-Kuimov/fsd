@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { Button, Card, Input } from '../../shared/ui';
+import { Button, Card, Input } from '@/shared/ui';
 </script>
 <template>
     <div>
