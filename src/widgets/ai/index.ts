@@ -1,0 +1,1 @@
+export { default as AiChat } from './ui/AiChat.vue';
