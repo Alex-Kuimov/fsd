@@ -1,19 +1,10 @@
-import { createRouter, createWebHistory } from 'vue-router';
-
-const routes = [
-    {
-        path: '/profile/',
-        name: 'profile',
-        component: () => import('@/pages/profile/ui/HomePage.vue'),
+export const ROUTES = {
+    HOME: {
+        PATH: '/',
+        NAME: 'Home',
     },
-   
-]
-
-const router = createRouter({
-    history: createWebHistory(),
-    routes
-})
-
-
-
-export default router
+    PROFILE: {
+        PATH: '/profile',
+        NAME: 'Profile',
+    }
+}
