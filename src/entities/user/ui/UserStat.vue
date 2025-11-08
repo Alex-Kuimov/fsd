@@ -1,6 +1,6 @@
-<script setup lang="ts">
+<script lang="ts">
 </script>
 <template>
-    <button>Button</button>
+    <p>UserStat</p>
 </template>
 <style scoped></style>
