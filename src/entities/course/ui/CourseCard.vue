@@ -1,6 +1,6 @@
 <script lang="ts">
 </script>
 <template>
-    <p>UserAvatar</p>
+    <p>CourseCard</p>
 </template>
 <style scoped></style>
